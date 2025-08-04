@@ -14,6 +14,7 @@ A comprehensive collection of **verified and working** external resources, blog 
 
 - [Official Resources](#-official-resources)
 - [Blog Posts & Articles](#-blog-posts--articles)
+- [Sample projects and Code Snippets](#-sample-projects-code-snippets-and-github)
 - [Videos & Presentations](#-videos--presentations)
 - [Contributing](#-contributing)
 
