@@ -40,8 +40,8 @@ A comprehensive collection of **verified and working** external resources, blog 
 ### Technical Guides & Tutorials
 - [Introducing Docker Offload](https://dev.to/kristiyanvelkov/introducing-docker-offload-3dgj) - Comprehensive introduction by Kristiyan Velkov
 - [The Complete Guide to Docker Offload Beta Mode](https://medium.com/@dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-edc80e12f458) - Detailed Medium guide with hands-on examples
-- [What is Docker Offload and what problem does it solve?](https://www.ajeetraina.com/what-is-docker-offload-and-what-problem-does-it-solve/)
-- [Docker Offload: One of the Best Features for AI Workloads](https://dzone.com/articles/docker-offload-best-feature-for-ai-workloads)
+- [What is Docker Offload and what problem does it solve?](https://www.ajeetraina.com/what-is-docker-offload-and-what-problem-does-it-solve/) - By Ajeet Singh Raina, Docker
+- [Docker Offload: One of the Best Features for AI Workloads](https://dzone.com/articles/docker-offload-best-feature-for-ai-workloads) - By Naga Santhosh Reddy Vootukuri, Docker Captain
 - [The complete guide to Docker Offload. Beta mode was just launched](https://medium.com/@dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-edc80e12f458)
 - [Getting Started with Docker Offload](https://dev.to/bobbyiliev/getting-started-with-docker-offload-8ek)
 - [https://upcloud.com/resources/tutorials/docker-offload-cloud-develop-local/](https://upcloud.com/resources/tutorials/docker-offload-cloud-develop-local/)
@@ -49,6 +49,7 @@ A comprehensive collection of **verified and working** external resources, blog 
 - [Docker Offload for blazing fast AI development](https://tobiasfenster.io/docker-offload-for-blazing-fast-ai-development)
 - [Beyond Containers: How Docker Offload Supercharges DevOps with Cloud AI](https://realops.co/p/beyond-containers-how-docker-offload)
 - [Introduction to Docker Offload](https://theaiops.substack.com/p/introduction-to-docker-offload)
+- [Getting Started with Docker Offload](https://www.c-sharpcorner.com/article/getting-started-with-docker-offload/) - By Sarthak Varshney, Docker Captain
 
 
 ## Sample Projects, Code Snippets and GitHub
