@@ -50,6 +50,7 @@ A comprehensive collection of **verified and working** external resources, blog 
 - [Beyond Containers: How Docker Offload Supercharges DevOps with Cloud AI](https://realops.co/p/beyond-containers-how-docker-offload)
 - [Introduction to Docker Offload](https://theaiops.substack.com/p/introduction-to-docker-offload)
 - [Getting Started with Docker Offload](https://www.c-sharpcorner.com/article/getting-started-with-docker-offload/) - By Sarthak Varshney, Docker Captain
+- [Running Hugging Face Transformers with GPU Acceleration Using Docker Offload](https://www.ajeetraina.com/running-hugging-face-transformers-with-gpu-acceleration-using-docker-offload/)
 
 
 ## Sample Projects, Code Snippets and GitHub
