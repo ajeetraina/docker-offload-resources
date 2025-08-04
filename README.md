@@ -45,10 +45,10 @@ A comprehensive collection of **verified and working** external resources, blog 
 - [The complete guide to Docker Offload. Beta mode was just launched](https://medium.com/@dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-edc80e12f458)
 - [Getting Started with Docker Offload](https://dev.to/bobbyiliev/getting-started-with-docker-offload-8ek)
 - [https://upcloud.com/resources/tutorials/docker-offload-cloud-develop-local/](https://upcloud.com/resources/tutorials/docker-offload-cloud-develop-local/)
-- [Docker Offload](https://medium.com/@bhakareashutosh/docker-offload-6f4b450ef13a)
-- [Docker Offload for blazing fast AI development](https://tobiasfenster.io/docker-offload-for-blazing-fast-ai-development)
-- [Beyond Containers: How Docker Offload Supercharges DevOps with Cloud AI](https://realops.co/p/beyond-containers-how-docker-offload)
-- [Introduction to Docker Offload](https://theaiops.substack.com/p/introduction-to-docker-offload)
+- [Docker Offload](https://medium.com/@bhakareashutosh/docker-offload-6f4b450ef13a) - By Ashutosh Bhakara
+- [Docker Offload for blazing fast AI development](https://tobiasfenster.io/docker-offload-for-blazing-fast-ai-development) - By Tobias Fenster
+- [Beyond Containers: How Docker Offload Supercharges DevOps with Cloud AI](https://realops.co/p/beyond-containers-how-docker-offload) - By Gourav Shah
+- [Introduction to Docker Offload](https://theaiops.substack.com/p/introduction-to-docker-offload) - By Rami Krispin
 - [Getting Started with Docker Offload](https://www.c-sharpcorner.com/article/getting-started-with-docker-offload/) - By Sarthak Varshney, Docker Captain
 - [Running Hugging Face Transformers with GPU Acceleration Using Docker Offload](https://www.ajeetraina.com/running-hugging-face-transformers-with-gpu-acceleration-using-docker-offload/)
 
