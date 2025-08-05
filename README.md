@@ -290,16 +290,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-### 💬 **What Developers Are Saying**
-
-> *"Docker Offload has completely changed how I work with ML models. No more laptop heating up during training!"* - AI Developer
-
-> *"Finally, I can run multi-platform builds without waiting hours. Game changer!"* - DevOps Engineer  
-
-> *"The GPU support in Docker Offload is incredible for our data science workflows."* - Data Scientist
-
----
-
 ⭐ **Star this repository if these Docker Offload resources help you!** ⭐
 
 **Maintained with ❤️ by the Collabnix community** 🐳
