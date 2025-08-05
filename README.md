@@ -296,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 > **Note**: Docker Offload is currently in beta. This collection focuses on real, working resources. All links are regularly verified for quality and availability.
 
-**Last Updated**: December 2024
+**Last Updated**: August 2025
 
 ---
 
