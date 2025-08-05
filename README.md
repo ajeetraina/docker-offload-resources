@@ -23,19 +23,6 @@
 
 > **Docker Offload** is Docker's revolutionary **cloud-based container building and execution service** that lets you offload resource-intensive builds to the cloud while maintaining your familiar local development experience.
 
-### 🎯 Why Docker Offload is a Game Changer
-
-| **Before Docker Offload** | **With Docker Offload** |
-|---------------------------|-------------------------|
-| 🔥 **Laptop overheating** during builds | ☁️ **Cool, quiet cloud builds** |
-| ⏱️ **Slow local build times** | ⚡ **Lightning-fast cloud infrastructure** |
-| 💾 **Limited local resources** | 🚀 **Unlimited cloud compute power** |
-| 🎮 **No GPU for ML workloads** | 🧠 **NVIDIA L4 GPU on-demand** |
-| 🔋 **Battery drain during builds** | 💚 **Preserve laptop battery** |
-| 🌡️ **Thermal throttling** | 🧊 **Consistent performance** |
-
-</div>
-
 ---
 
 <div align="center">
